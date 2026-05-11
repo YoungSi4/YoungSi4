@@ -17,14 +17,14 @@
 
 <br>
 
-### 1. [디버그(Debug]
+### 1. [디버그(Debug)]
 > 개발하는 저조차 재밌어서 매일 테스트가 기대됐던 생존 탄막 로그라이크 게임입니다.
 * **Tech:** Unity 2D, C#
 * **Key Contributions:**
   * 위치 데이터를 기반으로 뱀처럼 움직이는 다지류 보스 구현
   * 무기, 발사체 등 상속 패턴 적용을 통한 객체지향 프로그래밍
   * Unity Input System을 활용한 사용자 입력 처
-* [🔗 상세 포트폴리오 보기](https://www.notion.so/Debug-35ba6c1ebfc780a18fbcf27826898052?source=copy_link) | [🔗 소스 코드 보기]([https://github.com/YoungSi4/Sweepers-in-Unity-ECS](https://github.com/YoungSi4/KSEB-Team-Bam-Seo-Ryu/tree/main/Assets/Scripts))
+* [🔗 상세 포트폴리오 보기](https://www.notion.so/Debug-35ba6c1ebfc780a18fbcf27826898052?source=copy_link) | [🔗 소스 코드 보기](https://github.com/YoungSi4/KSEB-Team-Bam-Seo-Ryu/tree/main/Assets/Scripts))
 
 <br>
 
